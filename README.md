@@ -8,4 +8,4 @@ As of April 17, 2018, I have verified that these instructions work when followed
 
 When creating these instructions, for certain parts I used several excellent tutorials available online which are cited within the file.
 
-Of course, if you choose to follow these instructions you are doing it at your own risk. I provide no guarantees and will assume no liability for any results you might have. :)
+Of course, if you choose to follow my approach you are doing it at your own risk. I provide no guarantees and will assume no liability for any results you might have. :)
