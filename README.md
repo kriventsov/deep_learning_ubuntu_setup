@@ -6,4 +6,4 @@ The total time you should expect to spend on this installation is 2.5 - 3 hours.
 
 As of April 17, 2018, I have verified that these instructions work when followed exactly. The behavior of some download links and other features may change in the future. I will update this tutorial in case if I become aware of any issues. However, I am not planning to test it regularly to confirm that everything is still up-to-date.
 
-When creating these instructions, I used several other excellent tutorials available online which are cited within the file.
+When creating these instructions, for certain parts I used several excellent tutorials available online, which are cited within the file.
